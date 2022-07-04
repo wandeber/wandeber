@@ -7,5 +7,5 @@
 📫 You can reach me on my social networks:
 - YouTube: @wandeber
 - Twitch: @wandeber
-- Twitter: @wandebern
+- Twitter: @wandebrr
 
