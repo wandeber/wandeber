@@ -1,10 +1,7 @@
-👋 Hi, I’m @wandeber
+👋 Hi ^^
 
 👀 I’m interested in videogame and web development.
 
-🌱 I’m currently learning Unity and C#. Also Unreal Engine, AWS, Vue...
-
-📫 You can reach me on my social networks:
 - YouTube: @wandeber
 - Twitch: @wandeber
 - Twitter: @wandebrr
